@@ -6,7 +6,7 @@ The Walt Disney World in Florida is now allowing guests to take pictures outdoor
 
 This [article](https://www.forbes.com/sites/alisondurkee/2021/04/06/walt-disney-world-loosens-policy-on-mask-wearing/?sh=21ca1a375f77) captured how Walt Disney World customers have been acting during these times:
 
-![Disney](Disney.jpg)
+![Disney image](https://specials-images.forbesimg.com/imageserve/606cc2203d016d088478e840/960x0.jpg?cropX1=0&cropX2=2560&cropY1=0&cropY2=1440)
 
 
 
