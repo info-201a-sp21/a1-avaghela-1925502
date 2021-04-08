@@ -3,15 +3,15 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```bash
 # Print your working directory
-
+pwd
 # List the files in your current directory
-
+ls
 # Change your directory to a folder in which you do work for this class
-
+cd Info 201
 # Clone your assignment repository from GitHub to your machine
-
+git clone https://github.com/info-201a-sp21/a1-avaghela-1925502.git
 # Using a *relative path*, change your directory to inside the repository you just cloned
-
+cd a1-avaghela-1925502/
 # Make a new folder called "imgs" - you'll download an image into this folder
 
 # Add all of your changes that you've made to git
@@ -31,4 +31,3 @@ Search Google for *git cheat sheets*, look through several, and choose your favo
 
 
 Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
-
