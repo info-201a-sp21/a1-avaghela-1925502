@@ -4,6 +4,9 @@ The Walt Disney World in Florida is now allowing guests to take pictures outdoor
 
 >Florida does not have a statewide mask mandate, but there are mask orders in effect in Orange and Osceola counties, where Walt Disney World is located.
 
+This [article](https://www.forbes.com/sites/alisondurkee/2021/04/06/walt-disney-world-loosens-policy-on-mask-wearing/?sh=21ca1a375f77) captured how Walt Disney World customers have been acting during these times:
+
+![Disney](Disney.jpg)
 
 
 
