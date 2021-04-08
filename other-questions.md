@@ -13,13 +13,13 @@ git clone https://github.com/info-201a-sp21/a1-avaghela-1925502.git
 # Using a *relative path*, change your directory to inside the repository you just cloned
 cd a1-avaghela-1925502/
 # Make a new folder called "imgs" - you'll download an image into this folder
-
+mkdir imgs
 # Add all of your changes that you've made to git
-
+git add .
 # Make a commit of your changes, including a descriptive message
-
+git commit -m "downloaded respository, and created a folder called "imgs" in the respository and have an image downloaded in there"
 # Push your change up to GitHub
-
+git push
 ```
 
 # Finding Cheat Sheets
@@ -28,6 +28,10 @@ A cheat sheet is a website (or document) that has a list of commonly used comman
 
 Search Google for *git cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
 
-
+https://www.git-tower.com/blog/git-cheat-sheet/
+This one was my favorite because all the git commands were all on one page and were categorized based on where they are used.
 
 Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
+
+https://www.markdownguide.org/basic-syntax/
+This one was my favorite because it showed all the commands and outputs for what I want in Markdown and made it super simple to follow along with.
