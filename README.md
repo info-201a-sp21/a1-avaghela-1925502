@@ -8,7 +8,6 @@ This [article](https://www.forbes.com/sites/alisondurkee/2021/04/06/walt-disney-
 
 ![Disney image](imgs/Disney.jpg)
 
-test
 Of note:
 - [Scuffles](https://www.orlandosentinel.com/business/tourism/os-bz-theme-parks-face-masks-outbreaks-20201124-g7je4csysvdspcnn7djsj3hsfe-story.html) are erupting over the COVID-19 rule
 - [Disneyland Paris](https://www.forbes.com/sites/alisondurkee/2021/03/12/disneyland-paris-may-soon-be-the-only-disney-theme-park-closed-worldwide-as-shutdown-extends-again/?sh=238fd494c3ed) will be the only Disney theme park closed worldwide
